@@ -198,7 +198,7 @@
 		AC5AD8862C3FA19D000D2780 /* Common */ = {
 			isa = PBXGroup;
 			children = (
-				AC5AD8882C3FA1B5000D2780 /* Dependencies */,
+				AC5AD8882C3FA1B5000D2780 /* Dependencies Provider */,
 				AC5AD8872C3FA1AC000D2780 /* Utilities */,
 			);
 			path = Common;
@@ -215,13 +215,13 @@
 			path = Utilities;
 			sourceTree = "<group>";
 		};
-		AC5AD8882C3FA1B5000D2780 /* Dependencies */ = {
+		AC5AD8882C3FA1B5000D2780 /* Dependencies Provider */ = {
 			isa = PBXGroup;
 			children = (
 				AC5AD88B2C3FAB03000D2780 /* Assemblies */,
 				AC5AD8892C3FAAF4000D2780 /* DependencyProvider.swift */,
 			);
-			path = Dependencies;
+			path = "Dependencies Provider";
 			sourceTree = "<group>";
 		};
 		AC5AD88B2C3FAB03000D2780 /* Assemblies */ = {
